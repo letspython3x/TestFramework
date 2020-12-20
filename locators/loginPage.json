@@ -1,0 +1,20 @@
+[
+  {
+    "name": "LoginPage",
+    "field": "username",
+    "xpath": "//*[@id=\"user-name\"]",
+    "description": "provide username"
+  },
+  {
+    "name": "LoginPage",
+    "field": "password",
+    "xpath": "//*[@id=\"password\"]",
+    "description": "provide password"
+  },
+  {
+    "name": "LoginPage",
+    "field": "loginButton",
+    "xpath": "//*[@id=\"login-button\"]",
+    "description": "Click Login"
+  }
+]
